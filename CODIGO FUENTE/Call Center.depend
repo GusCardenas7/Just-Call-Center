@@ -1,0 +1,124 @@
+# depslib dependency file v1.0
+1620971335 source:c:\users\dell\desktop\sspdedd1\call center\main.cpp
+	"agentmenu.h"
+
+1622014219 source:c:\users\dell\desktop\sspdedd1\call center\client.cpp
+	"client.h"
+
+1622014219 c:\users\dell\desktop\sspdedd1\call center\client.h
+	<iostream>
+	<string>
+	<iomanip>
+	<sstream>
+	"name.h"
+	"time.h"
+
+1621991075 c:\users\dell\desktop\sspdedd1\call center\name.h
+	<iostream>
+	<string>
+
+1621991075 c:\users\dell\desktop\sspdedd1\call center\time.h
+	<iostream>
+	<string>
+	<chrono>
+	<ctime>
+	<cstdio>
+	<cstdlib>
+
+1621990876 source:c:\users\dell\desktop\sspdedd1\call center\clientnode.cpp
+	"clientnode.h"
+
+1621991075 c:\users\dell\desktop\sspdedd1\call center\clientnode.h
+	"client.h"
+
+1622180632 source:c:\users\dell\desktop\sspdedd1\call center\name.cpp
+	"name.h"
+
+1621990875 source:c:\users\dell\desktop\sspdedd1\call center\time.cpp
+	"time.h"
+
+1622437362 source:c:\users\dell\desktop\sspdedd1\call center\clientlist.cpp
+	"clientlist.h"
+
+1621991075 c:\users\dell\desktop\sspdedd1\call center\clientlist.h
+	<string>
+	<fstream>
+	"clientnode.h"
+	"listexception.h"
+
+1621990993 c:\users\dell\desktop\sspdedd1\call center\listexception.h
+	<exception>
+	<string>
+
+1622180632 c:\users\dell\desktop\sspdedd1\call center\clientmenu.h
+	<iostream>
+	<string>
+	<clocale>
+	<windows.h>
+	"client.h"
+	"clientlist.h"
+	"clientnode.h"
+	"name.h"
+	"time.h"
+
+1622180809 source:c:\users\dell\desktop\sspdedd1\call center\clientmenu.cpp
+	"clientmenu.h"
+
+1622016657 source:c:\users\dell\desktop\sspdedd1\call center\agent.cpp
+	"agent.h"
+
+1621991075 c:\users\dell\desktop\sspdedd1\call center\agent.h
+	<iostream>
+	<string>
+	"name.h"
+	"schedule.h"
+	"time.h"
+	"clientlist.h"
+
+1621991075 c:\users\dell\desktop\sspdedd1\call center\schedule.h
+	<iostream>
+	<string>
+	"time.h"
+
+1622000345 source:c:\users\dell\desktop\sspdedd1\call center\agentlist.cpp
+	"agentlist.h"
+
+1621991075 c:\users\dell\desktop\sspdedd1\call center\agentlist.h
+	<string>
+	<fstream>
+	"agent.h"
+	"agentnode.h"
+
+1622420018 c:\users\dell\desktop\sspdedd1\call center\agentnode.h
+	<exception>
+	<string>
+	"agent.h"
+
+1622420017 source:c:\users\dell\desktop\sspdedd1\call center\agentnode.cpp
+	"agentnode.h"
+
+1622782211 source:c:\users\dell\desktop\sspdedd1\call center\agentmenu.cpp
+	"agentmenu.h"
+
+1622782211 c:\users\dell\desktop\sspdedd1\call center\agentmenu.h
+	<iostream>
+	<string>
+	<clocale>
+	<windows.h>
+	"agent.h"
+	"agentlist.h"
+	"agentnode.h"
+	"name.h"
+	"schedule.h"
+	"time.h"
+	"clientlist.h"
+	"clientmenu.h"
+
+1622015197 source:c:\users\dell\desktop\sspdedd1\call center\schedule.cpp
+	"schedule.h"
+
+1621392600 c:\users\dell\desktop\sspdedd1\call center\modificationsmenu.h
+	<iostream>
+	<string>
+	"clientmenu.h"
+

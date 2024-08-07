@@ -1,0 +1,51 @@
+3
+123456
+Flores, Karla
+Impresoras
+55
+L-V / 7:00-16:00
+0
+s
+
+1
+Sánchez, Carlos
+13:14
+00:03
+
+6
+
+
+3
+123485
+Ochoa, Mario
+Linux
+44
+L-S / 9:00-14:00
+2
+s
+
+1
+Cervantes, Ana
+10:03
+00:12
+
+6
+
+
+3
+192836
+Alvarado, Erik
+Servidores
+22
+L-V / 07:30-17:30
+3
+s
+
+1
+Zamora, Alex
+11:06
+00:25
+
+6
+
+
